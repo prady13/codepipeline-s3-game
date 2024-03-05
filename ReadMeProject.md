@@ -38,5 +38,6 @@ Now the pipeline is succesfully connected and we can access the live url from th
 
 Now to test the CodePipeline trigger we made a little change in the HTML file and as we can see it triggered and detected the change and it deployed out of the bucket.
 <img width="1440" alt="Screenshot 2024-03-05 at 9 30 30 PM" src="https://github.com/prady13/codepipeline-s3-game/assets/62207613/f52b4f62-8aba-4019-9af0-d1f5b05fbba8">
+<img width="1440" alt="Screenshot 2024-03-05 at 9 33 15 PM" src="https://github.com/prady13/codepipeline-s3-game/assets/62207613/7ffa083c-b191-4fdd-9851-f7f0e3f6eccf">
 
 
