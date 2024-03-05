@@ -28,3 +28,9 @@ Step 3: Now we will create a new Pipeline that will orchestrate getting the code
 
 Pipeline successfully connected
 <img width="1440" alt="Screenshot 2024-03-05 at 9 21 55 PM" src="https://github.com/prady13/codepipeline-s3-game/assets/62207613/a038a184-0e78-408e-b610-b042edd68d77">
+
+<img width="1440" alt="Screenshot 2024-03-05 at 9 25 57 PM" src="https://github.com/prady13/codepipeline-s3-game/assets/62207613/9a6423c9-7920-4ca6-9e98-9fb79037e494">
+
+Now the pipeline is succesfully connected and we can access the live url from the bucket for our website.
+![Uploading Screenshot 2024-03-05 at 9.27.04 PM.png…]()
+
